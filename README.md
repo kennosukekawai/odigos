@@ -3,5 +3,5 @@
 ODIGOS is chat bot on slack
 
 use:
-botkit
+botkit \n
 Watson
